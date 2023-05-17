@@ -69,5 +69,5 @@ These techniques allowed me to create an engaging and well-designed component. B
 ## Author
 
 - Website - [Gulafsha Ahmed](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/pyjamaSamm)
+- Frontend Mentor - [@pyjamaSamm](https://www.frontendmentor.io/profile/pyjamaSamm)
 
